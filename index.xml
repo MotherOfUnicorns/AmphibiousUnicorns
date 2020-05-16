@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AmphibiousUnicorns</title>
+    <link>https://amphibiousunicorns.com/</link>
+    <description>Recent content on AmphibiousUnicorns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 14 May 2020 22:58:39 +0200</lastBuildDate>
+    
+	<atom:link href="https://amphibiousunicorns.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://amphibiousunicorns.com/about/</link>
+      <pubDate>Thu, 14 May 2020 22:58:39 +0200</pubDate>
+      
+      <guid>https://amphibiousunicorns.com/about/</guid>
+      <description>Yun is a data scientist based in the Netherlands. She does remote consulting/development for a range of companies and organisations. She&amp;rsquo;s also open to onsite work in the Netherlands.
+Technologies she likes to work with include Python (NumPy, Pandas, SciPy, Plotly, Matplotlib, etc) and SQL (PostgreSQL).
+You can see her other work on her personal site.
+For business inquiries please send an email.
+ work &amp;amp; study  Optiver (2017-2020) AMOLF (2016-2017) XtalPi (2015) Amsterdam University College (2014-2017)  BSc.</description>
+    </item>
+    
+  </channel>
+</rss>
